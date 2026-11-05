@@ -28,12 +28,12 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en el **IES Zaidín Verge
 
 ## 🚀 Proyectos Destacados
 
-* 🛡️ **[Metatractor-Forense-de-Metadatos](https://github.com/Kaleman60/Metatractor-Forense-de-Metadatos)** — Script en Python para análisis forense de metadatos en archivos (PDF, JPG, DOCX)[cite: 5].
-* 🌍 **[GeoNetTracker](https://github.com/Kaleman60/GeoNetTracker)** — Herramienta en Python para mapeo visual de conexiones de red mediante geolocalización IP[cite: 5, 6].
-* 🛠️ **[WebStatusMonitor](https://github.com/Kaleman60/WebStatusMonitor)** — Monitor ligero de puertos TCP sin dependencias externas usando sockets en Python[cite: 5, 6].
-* ⏱️ **[control-horas](https://github.com/Kaleman60/control-horas)** — Aplicación web para control de horas trabajadas y gestión de ganancias[cite: 5].
-* 🎣 **[Cuestionario-Phishing-Interactivo](https://github.com/Kaleman60/Cuestionario-Phishing-Interactivo)** — Cuestionario educativo sobre concienciación contra correos fraudulentos[cite: 6].
-* 🌡️ **[TermoPc](https://github.com/Kaleman60/TermoPc)** — Medidor de temperatura para computadora portátil desarrollado en C++[cite: 5].
+* 🛡️ **[Metatractor-Forense-de-Metadatos](https://github.com/Kaleman60/Metatractor-Forense-de-Metadatos)** — Script en Python para análisis forense de metadatos en archivos (PDF, JPG, DOCX).
+* 🌍 **[GeoNetTracker](https://github.com/Kaleman60/GeoNetTracker)** — Herramienta en Python para mapeo visual de conexiones de red mediante geolocalización IP.
+* 🛠️ **[WebStatusMonitor](https://github.com/Kaleman60/WebStatusMonitor)** — Monitor ligero de puertos TCP sin dependencias externas usando sockets en Python.
+* ⏱️ **[control-horas](https://github.com/Kaleman60/control-horas)** — Aplicación web para control de horas trabajadas y gestión de ganancias.
+* 🎣 **[Cuestionario-Phishing-Interactivo](https://github.com/Kaleman60/Cuestionario-Phishing-Interactivo)** — Cuestionario educativo sobre concienciación contra correos fraudulentos.
+* 🌡️ **[TermoPc](https://github.com/Kaleman60/TermoPc)** — Medidor de temperatura para computadora portátil desarrollado en C++.
 
 ---
 
