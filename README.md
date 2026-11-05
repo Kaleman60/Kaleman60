@@ -8,13 +8,13 @@
   <b>Estudiante de 2º DAW | Web Developer | Apasionada de la Ciberseguridad & Forensic</b>
 </p>
 
-<!-- BOTONES DE CONTACTO -->
+<!-- BOTONES DE CONTACTO CORREGIDOS -->
 <p align="center">
   <a href="https://github.com/Kaleman60">
-    <img src="https://img.shields.io/badge/PORTFOLIO-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Portfolio" />
   </a>
   <a href="mailto:kalemancardenas@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-CONTACTO-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-CONTACTO-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Contacto" />
   </a>
 </p>
 
